@@ -1,0 +1,33 @@
+oal: Lock in features, tech stack, folder structure, and core components. 
+
+Main Features to Build: 
+
+    Audio recorder (calls → AI classification) 
+
+    GPS tagging 
+
+    Frog species database= access for databases 
+
+ 
+
+    Weather/environment API integration 
+
+    Optional: camera upload for deformity detection 
+
+    IndexedDB or Firebase for storage 
+
+    Tabbed, mobile-first UI 
+
+Stack: 
+
+    Frontend: React + TailwindCSS 
+
+    AI (Audio): TensorFlow.js or Python-trained + ONNX export 
+
+    Storage: IndexedDB (offline) → Firebase/Supabase (optional) 
+
+    APIs: OpenWeatherMap + Geolocation API 
+
+    Optional: Python (Flask) backend for model serving if model’s too large for frontend 
+
+ 
