@@ -29,5 +29,5 @@ Stack:
     APIs: OpenWeatherMap + Geolocation API 
 
     Optional: Python (Flask) backend for model serving if model’s too large for frontend 
-
+https://anuran-call-rec12.lovable.app/
  
