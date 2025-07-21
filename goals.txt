@@ -2,11 +2,13 @@ Goal: Lock in features, tech stack, folder structure, and core components.
 
 Main Features to Build: 
 
-    Audio recorder (calls → AI classification) 
+    Audio recorder (calls → AI classification) https://onnx.ai/
 
     GPS tagging 
 
-    Frog species database= access for databases 
+    Frog species database = access for databases 
+    
+    Species  names and pictures in PNG
 
     Weather/environment API integration 
 
