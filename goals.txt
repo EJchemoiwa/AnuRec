@@ -8,8 +8,6 @@ Main Features to Build:
 
     Frog species database= access for databases 
 
- 
-
     Weather/environment API integration 
 
     Optional: camera upload for deformity detection 
