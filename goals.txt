@@ -1,4 +1,4 @@
-oal: Lock in features, tech stack, folder structure, and core components. 
+Goal: Lock in features, tech stack, folder structure, and core components. 
 
 Main Features to Build: 
 
