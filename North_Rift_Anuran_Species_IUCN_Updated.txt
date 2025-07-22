@@ -1,0 +1,23 @@
+Anuran Species of North Rift, Kenya
+FamilyGenusSpeciesIUCN Link1. BufonidaeSclerophryskisoloensis (Kisolo Toad)https://www.iucnredlist.org/species/54977/15679510
+2. BufonidaeSclerophrysgutturalis (Guttural Toad)https://www.iucnredlist.org/species/54699/115234756
+3. PyxicephalidaeAmietianutti (Nutt’s River Frog)https://www.iucnredlist.org/species/113259478/175796538
+4. PtychadenidaePtychadenaporosissima (Striped Rocket Frog)https://www.iucnredlist.org/species/58586/177231336
+5. PtychadenidaePtychadenanilotica (Nile Rocket Frog)https://www.iucnredlist.org/species/58675/18392547
+6. PtychadenidaePtychadenaoxyrhynchus (Sharp-nosed Rocket Frog)https://www.iucnredlist.org/species/58585/177230973
+7. PtychadenidaePtychadenaanchietae (Anchieta’s Ridged Frog)https://www.iucnredlist.org/species/58613/12799988
+8. PipidaeXenopusborealis (Marsabit Clawed Frog)https://www.iucnredlist.org/species/58679/18393057
+9. HyperoliidaeHyperoliusviridiflavus (Common Reed Frog)https://www.iucnredlist.org/species/56146/112233627
+10. RanidaeAmniranaalbolabris (Forest White-lipped Frog)https://www.iucnredlist.org/species/54930/172979872
+11. DicroglossidaeHoplobatrachusoccipitalis (Eastern Bullfrog)https://www.iucnredlist.org/species/58537/18389457
+12. PhrynobatrachidaePhrynobatrachusgraueri (Grauer’s Puddle Frog)https://www.iucnredlist.org/species/58011/18365355
+13. PhrynobatrachidaePhrynobatrachusscheffleri (Scheffler’s Puddle Frog)https://www.iucnredlist.org/species/58010/18365298
+14. PhrynobatrachidaePhrynobatrachusnatalensis (Natal Puddle Frog)https://www.iucnredlist.org/species/58014/18365435
+15. PhrynobatrachidaePhrynobatrachuskeniensis (Kenya Puddle Frog)https://www.iucnredlist.org/species/58013/18365406
+16. LeptopelidaeLeptopelismackayi (Mackay’s Tree Frog)https://www.iucnredlist.org/species/56116/112217612
+17. BufonidaeSclerophryskerinyagae (Kerinyaga Toad)https://www.iucnredlist.org/species/58423/18399567
+18. BufonidaeSclerophrysturkanae (Turkana Toad)https://www.iucnredlist.org/species/54672/115231123
+19. HyperoliidaeHyperoliuscinnamomeoventris (Cinnamon-Bellied Reed Frog)https://www.iucnredlist.org/species/56145/18372230
+20. PtychadenidaePtychadenamahnerti (Mahnert’s Rocket Frog)https://www.iucnredlist.org/species/61896/12559393
+21. PtychadenidaePtychadenamascareniensis (Mascarene Ridged Frog)https://www.iucnredlist.org/species/58677/18392890
+
