@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AnuRec/static/css/main.cf890fdb.css",
+    "main.css": "/AnuRec/static/css/main.dba88d70.css",
     "main.js": "/AnuRec/static/js/main.a2ec88fa.js",
     "index.html": "/AnuRec/index.html",
-    "main.cf890fdb.css.map": "/AnuRec/static/css/main.cf890fdb.css.map",
+    "main.dba88d70.css.map": "/AnuRec/static/css/main.dba88d70.css.map",
     "main.a2ec88fa.js.map": "/AnuRec/static/js/main.a2ec88fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf890fdb.css",
+    "static/css/main.dba88d70.css",
     "static/js/main.a2ec88fa.js"
   ]
 }
