@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AnuRec/static/css/main.47a4411e.css",
-    "main.js": "/AnuRec/static/js/main.fdccc50d.js",
+    "main.css": "/AnuRec/static/css/main.cf890fdb.css",
+    "main.js": "/AnuRec/static/js/main.a2ec88fa.js",
     "index.html": "/AnuRec/index.html",
-    "main.47a4411e.css.map": "/AnuRec/static/css/main.47a4411e.css.map",
-    "main.fdccc50d.js.map": "/AnuRec/static/js/main.fdccc50d.js.map"
+    "main.cf890fdb.css.map": "/AnuRec/static/css/main.cf890fdb.css.map",
+    "main.a2ec88fa.js.map": "/AnuRec/static/js/main.a2ec88fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.47a4411e.css",
-    "static/js/main.fdccc50d.js"
+    "static/css/main.cf890fdb.css",
+    "static/js/main.a2ec88fa.js"
   ]
 }
